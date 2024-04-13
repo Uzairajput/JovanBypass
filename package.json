@@ -1,8 +1,8 @@
 {
-	"name": "Jovanie",
+	"name": "MrUzairXxX",
 	"version": "2.0.1",
-	"description": "A simple Facebook Messenger Bot By Jovan",
-	"main": "Jovanie.js",
+	"description": "A simple Facebook Messenger Bot By 𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿",
+	"main": "𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿-𝑴𝑻𝑿.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
@@ -10,27 +10,27 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Jovanieeeee/JovanBypass/issues"
+		"url": "https://raw.githubusercontent.com/Uzairajput/MruzairXxX-Bypass/uzair-rajput-MruzairXxX/package.json"
 	},
 	"keywords": [
 		"bot",
 		"facebook",
 		"projectmirai",
-		"ziarein",
+		"Uzairrajput",
 		"mirai",
 		"catalizcs",
 		"spermlord",
 		"miraipr0ject",
-		"Jovanie",
-		"Jovan",
-		"Jovanieee"
+		"MrUzairXxX",
+		"MrUzairXxX-MTX",
+		"uzairrajput"
 		],
-	"author": "Jovan",
+	"author": "MrUzairXxX",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/Jovanieeeee/JovanBypass/issues"
+		"url": "https://raw.githubusercontent.com/Uzairajput/MruzairXxX-Bypass/uzair-rajput-MruzairXxX/package.json"
 	},
-	"homepage": "https://github.com/Jovanieeeee/JovanBypass/issues",
+	"homepage": "https://raw.githubusercontent.com/Uzairajput/MruzairXxX-Bypass/uzair-rajput-MruzairXxX/package.json",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
